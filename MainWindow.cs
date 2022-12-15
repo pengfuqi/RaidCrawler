@@ -701,5 +701,30 @@ namespace RaidCrawler
             RewardsList.Clear();
             foreach (Raid raid in Raids) RewardsList.Add(GetRewards(raid));
         }
+
+        private void LabelGender_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LabelNature_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LabelTeraType_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LabelLoadedRaids_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LabelIsEvent_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

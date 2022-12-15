@@ -58,64 +58,64 @@
             // button1
             // 
             this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
-            this.button1.Location = new System.Drawing.Point(12, 136);
+            this.button1.Location = new System.Drawing.Point(12, 154);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(274, 35);
+            this.button1.Size = new System.Drawing.Size(274, 40);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Confirm";
+            this.button1.Text = "确认";
             this.button1.UseVisualStyleBackColor = true;
             // 
             // CheckAbilityPatch
             // 
             this.CheckAbilityPatch.AutoSize = true;
-            this.CheckAbilityPatch.Location = new System.Drawing.Point(43, 16);
+            this.CheckAbilityPatch.Location = new System.Drawing.Point(43, 18);
             this.CheckAbilityPatch.Name = "CheckAbilityPatch";
-            this.CheckAbilityPatch.Size = new System.Drawing.Size(93, 19);
+            this.CheckAbilityPatch.Size = new System.Drawing.Size(97, 21);
             this.CheckAbilityPatch.TabIndex = 1;
             this.CheckAbilityPatch.Text = "Ability Patch";
             this.CheckAbilityPatch.UseVisualStyleBackColor = true;
             // 
             // PicPatch
             // 
-            this.PicPatch.Location = new System.Drawing.Point(12, 12);
+            this.PicPatch.Location = new System.Drawing.Point(12, 14);
             this.PicPatch.Name = "PicPatch";
-            this.PicPatch.Size = new System.Drawing.Size(25, 25);
+            this.PicPatch.Size = new System.Drawing.Size(25, 28);
             this.PicPatch.TabIndex = 2;
             this.PicPatch.TabStop = false;
             // 
             // PicSweet
             // 
             this.PicSweet.Image = global::RaidCrawler.Properties.Resources.item_1904;
-            this.PicSweet.Location = new System.Drawing.Point(12, 43);
+            this.PicSweet.Location = new System.Drawing.Point(12, 49);
             this.PicSweet.Name = "PicSweet";
-            this.PicSweet.Size = new System.Drawing.Size(25, 25);
+            this.PicSweet.Size = new System.Drawing.Size(25, 28);
             this.PicSweet.TabIndex = 3;
             this.PicSweet.TabStop = false;
             // 
             // PicSour
             // 
             this.PicSour.Image = global::RaidCrawler.Properties.Resources.item_1906;
-            this.PicSour.Location = new System.Drawing.Point(12, 74);
+            this.PicSour.Location = new System.Drawing.Point(12, 84);
             this.PicSour.Name = "PicSour";
-            this.PicSour.Size = new System.Drawing.Size(25, 25);
+            this.PicSour.Size = new System.Drawing.Size(25, 28);
             this.PicSour.TabIndex = 4;
             this.PicSour.TabStop = false;
             // 
             // PicSpicy
             // 
             this.PicSpicy.Image = global::RaidCrawler.Properties.Resources.item_1908;
-            this.PicSpicy.Location = new System.Drawing.Point(12, 105);
+            this.PicSpicy.Location = new System.Drawing.Point(12, 119);
             this.PicSpicy.Name = "PicSpicy";
-            this.PicSpicy.Size = new System.Drawing.Size(25, 25);
+            this.PicSpicy.Size = new System.Drawing.Size(25, 28);
             this.PicSpicy.TabIndex = 5;
             this.PicSpicy.TabStop = false;
             // 
             // CheckSweet
             // 
             this.CheckSweet.AutoSize = true;
-            this.CheckSweet.Location = new System.Drawing.Point(43, 46);
+            this.CheckSweet.Location = new System.Drawing.Point(43, 52);
             this.CheckSweet.Name = "CheckSweet";
-            this.CheckSweet.Size = new System.Drawing.Size(92, 19);
+            this.CheckSweet.Size = new System.Drawing.Size(101, 21);
             this.CheckSweet.TabIndex = 6;
             this.CheckSweet.Text = "Sweet Herba";
             this.CheckSweet.UseVisualStyleBackColor = true;
@@ -123,9 +123,9 @@
             // CheckSour
             // 
             this.CheckSour.AutoSize = true;
-            this.CheckSour.Location = new System.Drawing.Point(43, 77);
+            this.CheckSour.Location = new System.Drawing.Point(43, 87);
             this.CheckSour.Name = "CheckSour";
-            this.CheckSour.Size = new System.Drawing.Size(85, 19);
+            this.CheckSour.Size = new System.Drawing.Size(94, 21);
             this.CheckSour.TabIndex = 7;
             this.CheckSour.Text = "Sour Herba";
             this.CheckSour.UseVisualStyleBackColor = true;
@@ -133,9 +133,9 @@
             // CheckSpicy
             // 
             this.CheckSpicy.AutoSize = true;
-            this.CheckSpicy.Location = new System.Drawing.Point(43, 108);
+            this.CheckSpicy.Location = new System.Drawing.Point(43, 122);
             this.CheckSpicy.Name = "CheckSpicy";
-            this.CheckSpicy.Size = new System.Drawing.Size(89, 19);
+            this.CheckSpicy.Size = new System.Drawing.Size(97, 21);
             this.CheckSpicy.TabIndex = 8;
             this.CheckSpicy.Text = "Spicy Herba";
             this.CheckSpicy.UseVisualStyleBackColor = true;
@@ -143,9 +143,9 @@
             // CheckBottleCap
             // 
             this.CheckBottleCap.AutoSize = true;
-            this.CheckBottleCap.Location = new System.Drawing.Point(181, 108);
+            this.CheckBottleCap.Location = new System.Drawing.Point(181, 122);
             this.CheckBottleCap.Name = "CheckBottleCap";
-            this.CheckBottleCap.Size = new System.Drawing.Size(81, 19);
+            this.CheckBottleCap.Size = new System.Drawing.Size(88, 21);
             this.CheckBottleCap.TabIndex = 16;
             this.CheckBottleCap.Text = "Bottle Cap";
             this.CheckBottleCap.UseVisualStyleBackColor = true;
@@ -153,9 +153,9 @@
             // CheckBitter
             // 
             this.CheckBitter.AutoSize = true;
-            this.CheckBitter.Location = new System.Drawing.Point(181, 77);
+            this.CheckBitter.Location = new System.Drawing.Point(181, 87);
             this.CheckBitter.Name = "CheckBitter";
-            this.CheckBitter.Size = new System.Drawing.Size(89, 19);
+            this.CheckBitter.Size = new System.Drawing.Size(98, 21);
             this.CheckBitter.TabIndex = 15;
             this.CheckBitter.Text = "Bitter Herba";
             this.CheckBitter.UseVisualStyleBackColor = true;
@@ -163,62 +163,63 @@
             // CheckSalty
             // 
             this.CheckSalty.AutoSize = true;
-            this.CheckSalty.Location = new System.Drawing.Point(181, 46);
+            this.CheckSalty.Location = new System.Drawing.Point(181, 52);
             this.CheckSalty.Name = "CheckSalty";
-            this.CheckSalty.Size = new System.Drawing.Size(86, 19);
+            this.CheckSalty.Size = new System.Drawing.Size(94, 21);
             this.CheckSalty.TabIndex = 14;
             this.CheckSalty.Text = "Salty Herba";
             this.CheckSalty.UseVisualStyleBackColor = true;
+            this.CheckSalty.CheckedChanged += new System.EventHandler(this.CheckSalty_CheckedChanged);
             // 
             // PicCap
             // 
-            this.PicCap.Location = new System.Drawing.Point(150, 105);
+            this.PicCap.Location = new System.Drawing.Point(150, 119);
             this.PicCap.Name = "PicCap";
-            this.PicCap.Size = new System.Drawing.Size(25, 25);
+            this.PicCap.Size = new System.Drawing.Size(25, 28);
             this.PicCap.TabIndex = 13;
             this.PicCap.TabStop = false;
             // 
             // PicBitter
             // 
             this.PicBitter.Image = global::RaidCrawler.Properties.Resources.item_1907;
-            this.PicBitter.Location = new System.Drawing.Point(150, 74);
+            this.PicBitter.Location = new System.Drawing.Point(150, 84);
             this.PicBitter.Name = "PicBitter";
-            this.PicBitter.Size = new System.Drawing.Size(25, 25);
+            this.PicBitter.Size = new System.Drawing.Size(25, 28);
             this.PicBitter.TabIndex = 12;
             this.PicBitter.TabStop = false;
             // 
             // PicSalty
             // 
             this.PicSalty.Image = global::RaidCrawler.Properties.Resources.item_1905;
-            this.PicSalty.Location = new System.Drawing.Point(150, 43);
+            this.PicSalty.Location = new System.Drawing.Point(150, 49);
             this.PicSalty.Name = "PicSalty";
-            this.PicSalty.Size = new System.Drawing.Size(25, 25);
+            this.PicSalty.Size = new System.Drawing.Size(25, 28);
             this.PicSalty.TabIndex = 11;
             this.PicSalty.TabStop = false;
             // 
             // PicCapsule
             // 
-            this.PicCapsule.Location = new System.Drawing.Point(150, 12);
+            this.PicCapsule.Location = new System.Drawing.Point(150, 14);
             this.PicCapsule.Name = "PicCapsule";
-            this.PicCapsule.Size = new System.Drawing.Size(25, 25);
+            this.PicCapsule.Size = new System.Drawing.Size(25, 28);
             this.PicCapsule.TabIndex = 10;
             this.PicCapsule.TabStop = false;
             // 
             // CheckAbilityCapsule
             // 
             this.CheckAbilityCapsule.AutoSize = true;
-            this.CheckAbilityCapsule.Location = new System.Drawing.Point(181, 16);
+            this.CheckAbilityCapsule.Location = new System.Drawing.Point(181, 18);
             this.CheckAbilityCapsule.Name = "CheckAbilityCapsule";
-            this.CheckAbilityCapsule.Size = new System.Drawing.Size(105, 19);
+            this.CheckAbilityCapsule.Size = new System.Drawing.Size(112, 21);
             this.CheckAbilityCapsule.TabIndex = 9;
             this.CheckAbilityCapsule.Text = "Ability Capsule";
             this.CheckAbilityCapsule.UseVisualStyleBackColor = true;
             // 
             // ItemIDs
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(298, 183);
+            this.ClientSize = new System.Drawing.Size(298, 207);
             this.Controls.Add(this.CheckBottleCap);
             this.Controls.Add(this.CheckBitter);
             this.Controls.Add(this.CheckSalty);
