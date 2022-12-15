@@ -128,7 +128,7 @@
             this.InputSwitchIP.Location = new System.Drawing.Point(84, 7);
             this.InputSwitchIP.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.InputSwitchIP.Name = "InputSwitchIP";
-            this.InputSwitchIP.Size = new System.Drawing.Size(129, 23);
+            this.InputSwitchIP.Size = new System.Drawing.Size(200, 30);
             this.InputSwitchIP.TabIndex = 8;
             this.InputSwitchIP.Text = "www.www.www.www";
             this.InputSwitchIP.TextChanged += new System.EventHandler(this.InputSwitchIP_Changed);
@@ -159,7 +159,7 @@
             this.LabelLoadedRaids.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.LabelLoadedRaids.Location = new System.Drawing.Point(220, 10);
             this.LabelLoadedRaids.Name = "LabelLoadedRaids";
-            this.LabelLoadedRaids.Size = new System.Drawing.Size(97, 15);
+            this.LabelLoadedRaids.Size = new System.Drawing.Size(150, 25);
             this.LabelLoadedRaids.TabIndex = 12;
             this.LabelLoadedRaids.Text = "Raids: 0 | Shiny: 0";
             this.LabelLoadedRaids.Click += new System.EventHandler(this.LabelLoadedRaids_Click);
@@ -171,7 +171,7 @@
             this.TeraType.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.TeraType.Name = "TeraType";
             this.TeraType.ReadOnly = true;
-            this.TeraType.Size = new System.Drawing.Size(97, 22);
+            this.TeraType.Size = new System.Drawing.Size(150, 29);
             this.TeraType.TabIndex = 49;
             // 
             // LabelTeraType
@@ -191,7 +191,7 @@
             this.PID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.PID.Name = "PID";
             this.PID.ReadOnly = true;
-            this.PID.Size = new System.Drawing.Size(95, 22);
+            this.PID.Size = new System.Drawing.Size(147, 29);
             this.PID.TabIndex = 47;
             // 
             // LabelPID
@@ -210,7 +210,7 @@
             this.EC.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.EC.Name = "EC";
             this.EC.ReadOnly = true;
-            this.EC.Size = new System.Drawing.Size(95, 22);
+            this.EC.Size = new System.Drawing.Size(147, 29);
             this.EC.TabIndex = 45;
             // 
             // LabelEC
@@ -230,7 +230,7 @@
             this.Seed.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Seed.Name = "Seed";
             this.Seed.ReadOnly = true;
-            this.Seed.Size = new System.Drawing.Size(95, 22);
+            this.Seed.Size = new System.Drawing.Size(147, 29);
             this.Seed.TabIndex = 43;
             this.Seed.Click += new System.EventHandler(this.Seed_Clicked);
             // 
@@ -283,7 +283,7 @@
             this.Area.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Area.Name = "Area";
             this.Area.ReadOnly = true;
-            this.Area.Size = new System.Drawing.Size(270, 22);
+            this.Area.Size = new System.Drawing.Size(422, 29);
             this.Area.TabIndex = 61;
             this.Area.Click += new System.EventHandler(this.DisplayMap);
             // 
@@ -303,7 +303,7 @@
             this.IVs.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.IVs.Name = "IVs";
             this.IVs.ReadOnly = true;
-            this.IVs.Size = new System.Drawing.Size(270, 22);
+            this.IVs.Size = new System.Drawing.Size(422, 29);
             this.IVs.TabIndex = 69;
             // 
             // LabelIVs
@@ -346,7 +346,7 @@
             this.IsEvent.Location = new System.Drawing.Point(357, 47);
             this.IsEvent.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.IsEvent.Name = "IsEvent";
-            this.IsEvent.Size = new System.Drawing.Size(15, 14);
+            this.IsEvent.Size = new System.Drawing.Size(22, 21);
             this.IsEvent.TabIndex = 83;
             this.IsEvent.UseVisualStyleBackColor = true;
             // 
@@ -367,7 +367,7 @@
             this.Difficulty.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Difficulty.Name = "Difficulty";
             this.Difficulty.ReadOnly = true;
-            this.Difficulty.Size = new System.Drawing.Size(88, 22);
+            this.Difficulty.Size = new System.Drawing.Size(136, 29);
             this.Difficulty.TabIndex = 86;
             // 
             // LabelDifficulty
@@ -424,7 +424,7 @@
             this.Species.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Species.Name = "Species";
             this.Species.ReadOnly = true;
-            this.Species.Size = new System.Drawing.Size(270, 22);
+            this.Species.Size = new System.Drawing.Size(422, 29);
             this.Species.TabIndex = 93;
             // 
             // LabelSpecies
@@ -452,7 +452,7 @@
             this.Move1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Move1.Name = "Move1";
             this.Move1.ReadOnly = true;
-            this.Move1.Size = new System.Drawing.Size(133, 22);
+            this.Move1.Size = new System.Drawing.Size(207, 29);
             this.Move1.TabIndex = 95;
             // 
             // Move2
@@ -462,7 +462,7 @@
             this.Move2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Move2.Name = "Move2";
             this.Move2.ReadOnly = true;
-            this.Move2.Size = new System.Drawing.Size(133, 22);
+            this.Move2.Size = new System.Drawing.Size(207, 29);
             this.Move2.TabIndex = 96;
             // 
             // Move4
@@ -472,7 +472,7 @@
             this.Move4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Move4.Name = "Move4";
             this.Move4.ReadOnly = true;
-            this.Move4.Size = new System.Drawing.Size(133, 22);
+            this.Move4.Size = new System.Drawing.Size(207, 29);
             this.Move4.TabIndex = 98;
             // 
             // Move3
@@ -482,7 +482,7 @@
             this.Move3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Move3.Name = "Move3";
             this.Move3.ReadOnly = true;
-            this.Move3.Size = new System.Drawing.Size(133, 22);
+            this.Move3.Size = new System.Drawing.Size(207, 29);
             this.Move3.TabIndex = 97;
             // 
             // LabelGame
@@ -540,7 +540,7 @@
             this.Nature.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Nature.Name = "Nature";
             this.Nature.ReadOnly = true;
-            this.Nature.Size = new System.Drawing.Size(97, 22);
+            this.Nature.Size = new System.Drawing.Size(150, 29);
             this.Nature.TabIndex = 106;
             // 
             // LabelNature
@@ -560,7 +560,7 @@
             this.Gender.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Gender.Name = "Gender";
             this.Gender.ReadOnly = true;
-            this.Gender.Size = new System.Drawing.Size(95, 22);
+            this.Gender.Size = new System.Drawing.Size(147, 29);
             this.Gender.TabIndex = 104;
             // 
             // LabelGender
@@ -601,7 +601,7 @@
             this.Ability.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Ability.Name = "Ability";
             this.Ability.ReadOnly = true;
-            this.Ability.Size = new System.Drawing.Size(132, 22);
+            this.Ability.Size = new System.Drawing.Size(205, 29);
             this.Ability.TabIndex = 110;
             // 
             // LabelAbility
