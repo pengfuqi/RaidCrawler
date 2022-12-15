@@ -726,20 +726,5 @@ namespace RaidCrawler
         {
 
         }
-
-        private void LabelGame_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LabelSpecies_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void LabelAbility_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
