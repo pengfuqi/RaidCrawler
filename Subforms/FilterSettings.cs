@@ -281,5 +281,10 @@ namespace RaidCrawler.Subforms
                 Rewards.Text = string.Join(",", s);
             }
         }
+
+        private void PerfectIVFilterGroup_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

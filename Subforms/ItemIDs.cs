@@ -21,5 +21,10 @@
             PicCap.Image = (Image?)PKHeX.Drawing.PokeSprite.Properties.Resources.ResourceManager.GetObject("aitem_795");
             PicPatch.Image = (Image?)PKHeX.Drawing.PokeSprite.Properties.Resources.ResourceManager.GetObject("aitem_1606");
         }
+
+        private void CheckSalty_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

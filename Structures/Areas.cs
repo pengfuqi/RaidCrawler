@@ -3,28 +3,28 @@
     internal class Areas
     {
         public static string[] Area = new string[] {
-            "South Province (Area 1)",
+            "南第1区",
             "", // Unused
             "", // Unused
-            "South Province (Area 2)",
-            "South Province (Area 4)",
-            "South Province (Area 6)",
-            "South Province (Area 5)",
-            "South Province (Area 3)",
-            "West Province (Area 1)",
-            "Asado Desert",
-            "West Province (Area 2)",
-            "West Province (Area 3)",
-            "Tagtree Thicket",
-            "East Province (Area 3)",
-            "East Province (Area 1)",
-            "East Province (Area 2)",
-            "Dalizapa Passage",
-            "Casseroya Lake",
-            "Glaseado Mountain",
-            "North Province (Area 3)",
-            "North Province (Area 1)",
-            "North Province (Area 2)",
+            "南第2区",
+            "南第4区",
+            "南第6区",
+            "南第5区",
+            "南第3区",
+            "西第1区",
+            "烘烘沙漠",
+            "西第2区",
+            "西第3区",
+            "印记森林",
+            "东第3区",
+            "东第1区",
+            "东第2区",
+            "锦穴山道",
+            "大锅湖",
+            "霜抹山",
+            "北第3区",
+            "北第1区",
+            "北第2区",
         };
     }
 }
